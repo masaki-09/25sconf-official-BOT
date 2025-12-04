@@ -18,7 +18,7 @@ INQUIRY_EMOJI=💬
 
 ===== ロール付与機能 =====  
 ROLE_MESSAGE_ID=ロール付与用メッセージのID  
-PARTICIPANT_EMOJI=参加予定者用カスタム絵文字のID（数字のみ） 
+PARTICIPANT_EMOJI=参加予定者用カスタム絵文字のID（数字のみ）   
 PARTICIPANT_ROLE_ID=参加予定者ロールのID  
 VIEWER_EMOJI=👁️  
 VIEWER_ROLE_ID=閲覧者ロールのID  
